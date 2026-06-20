@@ -1,4 +1,4 @@
-### Task 2: Keystroke Monitor (Keylogger)
+### Task : Keystroke Monitor (Keylogger)
 A Python-based keystroke logging application developed during my internship at Arch Technologies using the `pynput` library.
 
 **Features:**
